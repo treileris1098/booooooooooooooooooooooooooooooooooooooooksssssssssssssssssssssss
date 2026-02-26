@@ -16,6 +16,8 @@
         <input type="text" name="released_at"><br>
         <label for="discription" >discriptione</label><br>
         <input type="text" name="discription"><br>
+        <input type="submit" value="submit"><br>
+
     </form>
 </body>
 </html>
